@@ -1,8 +1,8 @@
 name: awesome_switch
 description: An Awesome Switch created with Flutter
 version: 0.0.1
-author: Muhammad Buhari
-homepage:
+# author: Muhammad Buhari <m.buhari@intelpeaktech.com>
+homepage: https://github.com/al-mohad/awesome-switch
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
